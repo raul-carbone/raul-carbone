@@ -55,7 +55,7 @@
 <h2>Projetos</h2> 
 <div align="center" justify-content="center">
   
-  <img height="160em" width="50%" src = "https://github-readme-stats.vercel.app/api/pin/?username=raul-carbone&repo=Pokedex&show_owner=true&title_color=00008b&bg_color=a9a9a9&text_color=000&border_color=e75480" />
+  <img height="160em" width="45%" src = "https://github-readme-stats.vercel.app/api/pin/?username=raul-carbone&repo=Pokedex&show_owner=true&title_color=00008b&bg_color=a9a9a9&text_color=000&border_color=e75480" />
   <img height="160em" width="45%" src = "https://github-readme-stats.vercel.app/api/pin/?username=raul-carbone&repo=Portifolio_Project&show_owner=true&title_color=00008b&bg_color=a9a9a9&text_color=000&border_color=e75480" />
 
 </div>
