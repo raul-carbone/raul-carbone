@@ -16,9 +16,9 @@
 </div>
 
 
-<div>
+<div  align="center">
   <img height="160em" src = "https://github-readme-stats.vercel.app/api?username=raul-carbone&show_icons=true&hide=stars,prs,issues&count_private=true&include_all_commits=true&ring_color=8B0000&card_width=300px&title_color=00008b&icon_color=00008&bg_color=a9a9a9&text_color=000&border_color=e75480"/>
-  <img height="190em" width="520em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=raul-carbone&layout=compact&title_color=00008b&langs_count=7&bg_color=a9a9a9&text_color=000&border_color=e75480" />
+  <img height="190em" width="400em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=raul-carbone&layout=compact&title_color=00008b&langs_count=7&bg_color=a9a9a9&text_color=000&border_color=e75480" />
 </div>
 
 <br>
@@ -52,9 +52,9 @@
 
 <br>
 
-<div>
+<h2>Projetos</h2> 
+<div align="center">
   
-  <h2>Projetos</h2> 
   <img height="160em" src = "https://github-readme-stats.vercel.app/api/pin/?username=raul-carbone&repo=Pokedex&show_owner=true&title_color=00008b&bg_color=a9a9a9&text_color=000&border_color=e75480" />
   <img height="160em" width="47%" src = "https://github-readme-stats.vercel.app/api/pin/?username=raul-carbone&repo=Portifolio_Project&show_owner=true&title_color=00008b&bg_color=a9a9a9&text_color=000&border_color=e75480" />
 
