@@ -1,31 +1,21 @@
-### Olá! Meu nome é Raul... 👋
+# Welcome! 👋
+
+## I'm Raul! Let me talk a little about myself
 
 <div>
-  
-<p>Informações pessoais
-
-🙋🏽‍♂️ 22 anos;
-🌎 Araraquara/SP;
-</p>  
-
-  
-</div>
-  <h4>Objetivo: Trabalhar em áreas de Tecnologia, visando aprender e melhorar cada vez mais no setor de desenvolvimento, tanto Back-end como Front- end.</h4>
-<div>
-  
+  <li>💻 Full Stack Developer</li>
+  <li>🌱 Java | HTML | CSS | Javascript | Flutter </li>
+  <li>📩 Email: raul.carboneinside@gmail.com</li>
+  <li>📕 English C1 Advanced</li>
 </div>
 
-
-<div  align="center" justify-content="center">
-  <img height="160em" width="50%" src = "https://github-readme-stats.vercel.app/api?username=raul-carbone&show_icons=true&hide=stars,prs,issues&count_private=true&include_all_commits=true&ring_color=8B0000&card_width=300px&title_color=00008b&icon_color=00008&bg_color=a9a9a9&text_color=000&border_color=e75480"/>
-  <img height="190em" width="45%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=raul-carbone&layout=compact&title_color=00008b&langs_count=7&bg_color=a9a9a9&text_color=000&border_color=e75480" />
-</div>
+  ## Objective: 
+  <h4>Work in areas of Technology, aiming to learn and improve increasingly in the development sector, both Back-end and Front-end.</h4>
 
 <br>
 
 <div align="center">
   <br>
-  
   <img align="center" alt="Raul-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Raul-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Raul-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -38,39 +28,14 @@
   <img align="center" alt="Raul-Sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sass/sass-original.svg">
   <img align="center" alt="Raul-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img align="center" alt="Raul-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
-          
-                  
-  
 </div>
 
 <br>
 
+## About Me
 <div>
-  
-- 💻Full Stack Developer
-- 🌱Estudando atualmente Oracle, Javascript e ReactJs
-- 📩 Contate-me no email: raul.carboneinside@gmail.com
-- 📕 Inglês C1 Advanced
-
-</div>
-
-<br>
-
-<h2>Projetos</h2> 
-<div align="center" justify-content="center">
-  
-  <img height="160em" width="50%" src = "https://github-readme-stats.vercel.app/api/pin/?username=raul-carbone&repo=Pokedex&title_color=00008b&bg_color=a9a9a9&text_color=000&border_color=e75480" />
-  <img height="160em" width="45%" src = "https://github-readme-stats.vercel.app/api/pin/?username=raul-carbone&repo=Portifolio_Project&title_color=00008b&bg_color=a9a9a9&text_color=000&border_color=e75480" />
-
-</div>
-
-<br>
-
-<div>
-  <h5>Socials</h5>
   <a href = "mailto:raul.carboneinside@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/raul-carbone-bb1154180/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- 
 </div>
 
 
