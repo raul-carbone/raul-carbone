@@ -14,8 +14,6 @@
   ## About me: 
   <i>Having recently graduated in Systems Analysis and Development, I am looking forward to embarking on my professional journey in software development. While I may not have hands-on experience, I've honed my skills through courses, personal projects, and participation in coding communities. I have a solid understanding of programming fundamentals, including algorithms, data structures and object-oriented programming principles. Additionally, I am proficient in languages ​​such as HTML, CSS, Javascript, and am excited about learning new technologies and frameworks. With a growth mindset and strong work ethic, I am committed to continually improving my skills and adapting to industry trends. I'm looking for an opportunity to contribute to innovative projects, collaborate with experienced developers, and make a significant impact in the world of software development.</i>
 
-<br>
-
   ## Technologies
 <div align="center">
   <br>
